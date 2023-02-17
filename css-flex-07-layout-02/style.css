@@ -25,7 +25,8 @@ body {
     margin-top: auto;
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
+    justify-content: center;
+    align-items: center;
 }
 
 .sidebar {
@@ -39,6 +40,8 @@ body {
     border: 1px solid #eee;
     box-shadow: 2px 4px 16px rgba(0, 0, 0, .06);
     border-radius: 4px;
+    background-color: dimgrey;
+    color:aliceblue;   
     padding: 16px;
     margin: 16px;
     width: 330px;
