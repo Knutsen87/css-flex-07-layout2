@@ -40,8 +40,8 @@ body {
     border: 1px solid #eee;
     box-shadow: 2px 4px 16px rgba(0, 0, 0, .06);
     border-radius: 4px;
-    background-color: dimgrey;
-    color:aliceblue;   
+    background: rgb(0, 212, 255);
+    background: linear-gradient(90deg, rgba(0, 212, 255, 1) 0%, rgba(2, 0, 36, 0.7455357142857143) 0%, rgba(16, 191, 116, 1) 100%);    color:aliceblue;   
     padding: 16px;
     margin: 16px;
     width: 330px;
